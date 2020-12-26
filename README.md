@@ -45,7 +45,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
 
@@ -53,7 +53,7 @@
 
 > 🏆 574 Contributions in the Year 2020
  > 
-> 📦 163.0 kB Used in Github's Storage 
+> 📦 163.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -98,6 +98,13 @@ Other                    25 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 PyCharm                  19 hrs 57 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+image-acquisition        7 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.78% 
+depp                     4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89% 
+waka-readme-stats        4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33% 
+artiq-experiments        3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
+job-matcher              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
 
 💻 Operating System: 
 Windows                  14 hrs 19 mins      ██████████████████░░░░░░░   71.75% 
