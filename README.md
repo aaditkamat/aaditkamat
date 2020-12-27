@@ -45,7 +45,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
 
@@ -98,6 +98,13 @@ Markdown                 29 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 PyCharm                  18 hrs 53 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+image-acquisition        7 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.8% 
+depp                     4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   23.13% 
+artiq-experiments        3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14% 
+waka-readme-stats        2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+job-matcher              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88%
 
 💻 Operating System: 
 Windows                  14 hrs 19 mins      ███████████████████░░░░░░   75.81% 
