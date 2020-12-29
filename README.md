@@ -1,7 +1,7 @@
 <h2> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Aadit Kamat, a final year student at the NUS School of Computing </h2>
 
 <details>
-     <summary style="font-size:1.25em"> <strong> Personal Info </strong></summary>
+     <summary style="font-size:1.25em"><strong>Personal Info </strong></summary>
      <ul>
           <li> 🏢 I'm currently interning at <a href="https://www.sginnovate.com/investments/atomionics"> Atomionics</a> under the SGInnovate programme
           <li> 👯 I'm happy to collaborate on any web development or data science project
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-     <summary style="font-size:1.25em"> <strong> Social media profiles </strong> </summary>
+     <summary style="font-size:1.25em"><strong>Social media profiles </strong> </summary>
      <p align="left">
      <a href="https://twitter.com/@K12Aadit"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
      <a href="https://facebook.com/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-     <summary style="font-size:1.25em"> <strong> Languages and Tools </strong> </summary>
+     <summary style="font-size:1.25em"><strong>Languages and Tools </strong> </summary>
      <p align="left">
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
@@ -44,24 +44,24 @@
 </details>
  
 <details>
-     <summary><strong>Spotify Playing 🎧 </strong></summary>
+     <summary style="font-size:1.25em"><strong>Spotify Playing 🎧 </strong></summary>
      <img src="https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&cover_image=true&theme=default" alt="Current Spotfiy song playing" />
 </details>
 
 <details>
      <summary><strong>My GitHub stats</strong></summary>
-     <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="GitHub trophy" />
-     <img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" />
-</details>
-
-<details>
-     <summary> <strong> Waka Stats </strong></summary>
-     <div class="waka-stats">
-          <img src="http://img.shields.io/badge/Profile%20Views-128-blue" alt="Profile Views">
-          <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue" alt="Lines of code">
-     </div>
-     <h3> 🐱 My Github Data </h3>
+     <br>
+     <br>
+     <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="GitHub trophy"> 
+     <br>
+     <br>
+     <img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true"> 
+     <br>
+     <br>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" > 
+     <br>
+     <br>
+     <strong>🐱 Github Data </strong>
      <ul>
           <li> 🏆 577 Contributions in the Year 2020
           <li> 📦 163.2 kB Used in Github's Storage 
@@ -69,7 +69,18 @@
           <li> 📜 63 Public Repositories 
           <li> 🔑 9 Private Repositories  
     </ul>
-    <h3> I'm an Early 🐤 </h3>
+</details>
+
+<details>
+     <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary>
+     <br>
+     <div class="waka-stats">
+          <img src="http://img.shields.io/badge/Profile%20Views-128-blue" alt="Profile Views"> <br><br>
+          <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue" alt="Lines of code">
+     </div>
+     <br>
+     <br>
+    <strong> I'm an Early 🐤 </strong>
     <pre lang="text">
          <code>
        🌞 Morning    164 commits    ████████░░░░░░░░░░░░░░░░░   33.33%
@@ -79,7 +90,7 @@
         </code>
    </pre>
           
-   <h3> 📅 I'm Most Productive on Saturday </h3>
+   <strong> 📅 I'm Most Productive on Saturday </strong>
 
    <pre lang="text">
          <code>
@@ -93,7 +104,7 @@
         </code>
    </pre>
    
-   <h3> 📊 This Week I Spent My Time On </h3>
+   <strong> 📊 This Week I Spent My Time On </strong>
 
    <pre lang="text">
          <code>
@@ -114,7 +125,7 @@ Windows                  14 hrs 19 mins      ███████████�
 Mac                      6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.91%
      </code>
  </pre>
- <h3> I Mostly Code in JavaScript </h3>
+ <strong> I Mostly Code in JavaScript </strong>
  
  <pre lang="text">
          <code>
@@ -126,7 +137,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
      </code>
  </pre>
           
-   <h3> Timeline </h3>
+   <strong> Timeline </strong>
 
    <img src="https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png" />
 </details>
