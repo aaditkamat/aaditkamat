@@ -61,6 +61,9 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" > 
      <br>
      <br>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat" alt="GitHub streak stats">
+     <br>
+     <br>
      <strong>🐱 Github Data </strong>
      <ul>
           <li> 🏆 577 Contributions in the Year 2020
