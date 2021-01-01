@@ -77,6 +77,7 @@
 <details>
      <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary>
      <br>
+     <!--START_SECTION:waka-->
      <div class="waka-stats">
           <img src="http://img.shields.io/badge/Profile%20Views-128-blue" alt="Profile Views"> <br><br>
           <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue" alt="Lines of code">
@@ -143,4 +144,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
    <strong> Timeline </strong>
 
    <img src="https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png" />
+   <!--END_SECTION:waka-->
 </details>
