@@ -78,71 +78,83 @@
      <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary>
      <br>
      <!--START_SECTION:waka-->
-     <div class="waka-stats">
-          <img src="http://img.shields.io/badge/Profile%20Views-128-blue" alt="Profile Views"> <br><br>
-          <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue" alt="Lines of code">
-     </div>
-     <br>
-     <br>
-    <strong> I'm an Early 🐤 </strong>
-    <pre lang="text">
-         <code>
-       🌞 Morning    164 commits    ████████░░░░░░░░░░░░░░░░░   33.33%
-       🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.32%
-       🌃 Evening    125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.41% 
-       🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%  
-        </code>
-   </pre>
-          
-   <strong> 📅 I'm Most Productive on Saturday </strong>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
 
-   <pre lang="text">
-         <code>
-   Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-   Tuesday      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55%  
-   Wednesday    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.93%  
-   Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-   Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
-   Saturday     119 commits    ██████░░░░░░░░░░░░░░░░░░░   24.19% 
-   Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-        </code>
-   </pre>
-   
-   <strong> 📊 This Week I Spent My Time On </strong>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334735%20lines%20of%20code-blue)
 
-   <pre lang="text">
-         <code>
-        ⌚︎ Time Zone: Asia/Singapore
+**🐱 My Github Data** 
+
+> 🏆 2 Contributions in the Year 2021
+ > 
+> 📦 163.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 65 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    167 commits    ████████░░░░░░░░░░░░░░░░░   33.67% 
+🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.06% 
+🌃 Evening    126 commits    ██████░░░░░░░░░░░░░░░░░░░   25.4% 
+🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
+Wednesday    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
+Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
+Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
+Saturday     119 commits    ██████░░░░░░░░░░░░░░░░░░░   23.99% 
+Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   15 hrs 7 mins       ██████████████████░░░░░░░   71.88% 
-JavaScript               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
-Docker                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
-Git Config               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57% 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
+Python                   10 hrs 51 mins      ████████████████░░░░░░░░░   65.03% 
+JavaScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
+Docker                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
 
 🔥 Editors: 
-PyCharm                  21 hrs 1 min        █████████████████████████   100.0%
+PyCharm                  16 hrs 40 mins      █████████████████████████   99.77% 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 💻 Operating System: 
-Windows                  14 hrs 19 mins      █████████████████░░░░░░░░   68.09% 
-Mac                      6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.91%
-     </code>
- </pre>
- <strong> I Mostly Code in JavaScript </strong>
- 
- <pre lang="text">
-         <code>
+Mac                      9 hrs 49 mins       ██████████████░░░░░░░░░░░   58.77% 
+Windows                  6 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.23%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
 JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
 Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
 Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-     </code>
- </pre>
-          
-   <strong> Timeline </strong>
 
-   <img src="https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png" />
-   <!--END_SECTION:waka-->
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
 </details>
