@@ -62,16 +62,6 @@
      <br>
      <br>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat" alt="GitHub streak stats">
-     <br>
-     <br>
-     <strong>🐱 Github Data </strong>
-     <ul>
-          <li> 🏆 577 Contributions in the Year 2020
-          <li> 📦 163.2 kB Used in Github's Storage 
-          <li> 💼 Opted to Hire
-          <li> 📜 63 Public Repositories 
-          <li> 🔑 9 Private Repositories  
-    </ul>
 </details>
 
 <details>
