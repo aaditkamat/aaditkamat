@@ -68,61 +68,83 @@
      <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary>
      <br>
      <!--START_SECTION:waka-->
-<div class="waka-stats"><img src="Profile Views" alt="http://img.shields.io/badge/Profile%20Views-161-blue"><br><br><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334735" alt="Lines of code"><br><br><strong>🐱 My Github Data</strong>
-<ul>
-<li>🏆 2 Contributions in the Year 2021
-<li>📦 163.2 kB Used in Github's Storage
-<li>💼 Opted to Hire
-<li>📜 65 Public Repositories 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334735%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 6 Contributions in the Year 2021
  > 
-
-<li>> 🔑 9 Private Repositories  
+> 📦 163.2 kB Used in Github's Storage 
  > 
+> 💼 Opted to Hire
+ > 
+> 📜 65 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
-</ul><pre lang="text">
-<strong>📅 I'm Most Productive on Saturday</strong>
-<code>Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
-Wednesday    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
-Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
-Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
-Saturday     119 commits    ██████░░░░░░░░░░░░░░░░░░░   23.99% 
-Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52%</code>
-</pre>
+```text
+🌞 Morning    167 commits    ████████░░░░░░░░░░░░░░░░░   33.6% 
+🌆 Daytime    160 commits    ████████░░░░░░░░░░░░░░░░░   32.19% 
+🌃 Evening    126 commits    ██████░░░░░░░░░░░░░░░░░░░   25.35% 
+🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85%
 
-<strong>📊 This Week I Spent My Time On</strong>
-Asia/Singapore
+```
+📅 **I'm Most Productive on Saturday** 
 
-Python                   10 hrs 51 mins      ████████████████░░░░░░░░░   65.03% 
-JavaScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
-Docker                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
-
-PyCharm                  16 hrs 40 mins      █████████████████████████   99.77% 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
-
-waka-readme-stats        6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   39.07% 
-artiq-experiments        6 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   37.06% 
-bollywood-hangman        3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.85% 
-aaditkamat.github.io     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
-depp                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
-
-Mac                      9 hrs 49 mins       ██████████████░░░░░░░░░░░   58.77% 
-Windows                  6 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.23%
+```text
+Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
+Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+Wednesday    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
+Thursday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
+Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Saturday     120 commits    ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
 
 ```
 
-<pre lang="text">
-<strong>I Mostly Code in JavaScript</strong>
-<code>JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Python                   12 hrs 37 mins      █████████████████░░░░░░░░   68.67% 
+JavaScript               2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
+Docker                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
+JSON                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47%
+
+🔥 Editors: 
+PyCharm                  18 hrs 21 mins      █████████████████████████   99.8% 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+
+💻 Operating System: 
+Mac                      11 hrs 30 mins      ███████████████░░░░░░░░░░   62.55% 
+Windows                  6 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.45%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
 Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
 Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%</code>
-</pre>
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
-<strong>Timeline</strong>
-<img src="Chart not found" alt="https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png"><br><br></div>
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 </details>
