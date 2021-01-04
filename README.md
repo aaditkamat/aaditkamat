@@ -68,13 +68,13 @@
      <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary>
      <br>
      <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334735%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 11 Contributions in the Year 2021
+> 🏆 12 Contributions in the Year 2021
  > 
 > 📦 163.2 kB Used in Github's Storage 
  > 
@@ -87,22 +87,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    167 commits    ████████░░░░░░░░░░░░░░░░░   33.53% 
-🌆 Daytime    161 commits    ████████░░░░░░░░░░░░░░░░░   32.33% 
-🌃 Evening    126 commits    ██████░░░░░░░░░░░░░░░░░░░   25.3% 
-🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
+🌞 Morning    167 commits    ████████░░░░░░░░░░░░░░░░░   33.47% 
+🌆 Daytime    162 commits    ████████░░░░░░░░░░░░░░░░░   32.46% 
+🌃 Evening    126 commits    ██████░░░░░░░░░░░░░░░░░░░   25.25% 
+🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
-Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Wednesday    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
-Thursday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
-Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
-Saturday     120 commits    ██████░░░░░░░░░░░░░░░░░░░   24.1% 
-Sunday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66%
+Monday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
+Wednesday    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+Thursday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
+Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
+Saturday     120 commits    ██████░░░░░░░░░░░░░░░░░░░   24.05% 
+Sunday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
 
 ```
 
