@@ -59,7 +59,8 @@
 <details>
      <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary><br>
      <!--START_SECTION:waka-->
-     <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334923%20lines%20of%20code-blue" alt="Lines of Code"/><br>
+     <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334923%20lines%20of%20code-blue" alt="Lines of Code"/>
+
 **🐱 My Github Data** 
 
 > 🏆 15 Contributions in the Year 2021
