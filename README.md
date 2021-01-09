@@ -49,27 +49,17 @@
 </details>
 
 <details>
-     <summary><strong>My GitHub stats</strong></summary>
-     <br>
-     <br>
-     <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="GitHub trophy"> 
-     <br>
-     <br>
-     <img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true"> 
-     <br>
-     <br>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" > 
-     <br>
-     <br>
+     <summary><strong>My GitHub stats</strong></summary><br><br>
+     <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="GitHub trophy"><br><br>
+     <img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true"><br><br>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" ><br><br>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat" alt="GitHub streak stats">
 </details>
 
 <details>
-     <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary>
-     <br>
+     <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary><br>
      <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334923%20lines%20of%20code-blue)
-
+     <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334923%20lines%20of%20code-blue" alt="Lines of Code"/><br>
 **🐱 My Github Data** 
 
 > 🏆 15 Contributions in the Year 2021
