@@ -17,29 +17,29 @@
 <details>
      <summary style="font-size:1.25em"><strong>Social media profiles </strong> </summary>
      <p align="left">
-     <a href="https://twitter.com/@K12Aadit"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
-     <a href="https://facebook.com/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
-     <a href="https://linkedin.com/in/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-     <a href="https://discordapp.com/users/541515000926306316"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
-     <a href="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
-     <a href="https://www.quora.com/profile/Aadit-Kamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Quora profile" height="30" width="40" /></a>
+     <a href="https://twitter.com/@K12Aadit"><img src="https://img.shields.io/badge/K12Aadit%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+     <a href="https://facebook.com/aaditkamat"><img src="https://img.shields.io/badge/aaditkamat%20-%232671E5.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+     <a href="https://linkedin.com/in/aaditkamat"><img src="https://img.shields.io/badge/aaditkamat%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+     <a href="https://discordapp.com/users/541515000926306316"><img src="https://img.shields.io/badge/aaditkamat%230539%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+     <a href="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi"><img src="https://img.shields.io/badge/AADIT%20KAMAT-%2343853D.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+     <a href="https://www.quora.com/profile/Aadit-Kamat"><img src="https://img.shields.io/badge/AADIT%20KAMAT-%23CC0000.svg?&style=for-the-badge&logo=quora&logoColor=white"/></a>
      </p>
 </details>
 
 <details>
      <summary style="font-size:1.25em"><strong>Languages and Tools </strong> </summary>
      <p align="left">
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg" alt="Ruby" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" />
-          <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/haskell.svg" alt="Haskell" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg" alt="Ruby on Rails" height="30" width="40" />
+          <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+          <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+          <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+          <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+          <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Haskell%20-%236D00CC.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
+          <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+          <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+          <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
      </p>
 </details>
  
