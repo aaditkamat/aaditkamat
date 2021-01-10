@@ -19,3 +19,4 @@ jobs:
           SHOW_PROFILE_VIEWS: FALSE
           SHOW_LOC_CHART:  TRUE
           SHOW_PROJECTS:  FALSE
+          RENDER_HTML: TRUE
