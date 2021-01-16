@@ -21,7 +21,6 @@
 <details>
      <summary style="font-size:1.25em"><strong>Social media profiles </strong> </summary>
      <p align="left">
-     <a href="https://twitter.com/@K12Aadit"><img src="https://img.shields.io/badge/K12Aadit%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
      <a href="https://facebook.com/aaditkamat"><img src="https://img.shields.io/badge/aaditkamat%20-%232671E5.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
      <a href="https://linkedin.com/in/aaditkamat"><img src="https://img.shields.io/badge/aaditkamat%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
      <a href="https://discordapp.com/users/541515000926306316"><img src="https://img.shields.io/badge/aaditkamat%230539%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
