@@ -52,7 +52,7 @@
 </details>
 
 <details>
-     <summary><strong>My GitHub stats</strong></summary><br><br>
+     <summary><strong>GitHub Stats</strong></summary><br><br>
      <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="GitHub trophy"><br><br>
      <img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true"><br><br>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" ><br><br>
