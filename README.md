@@ -62,9 +62,9 @@
 <details>
      <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary><br>
      <!--START_SECTION:waka-->
-<div class="waka-stats"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347328%20lines%20of%20code-blue" alt="Lines of code"><br><br><strong>🐱 My Github Data</strong>
+<div class="waka-stats"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347342%20lines%20of%20code-blue" alt="Lines of code"><br><br><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 53 Contributions in the Year 2021
+<li>🏆 54 Contributions in the Year 2021
 <li>📦 164.0 kB Used in Github's Storage
 <li>🚫 Opted to Hire
 <li>📜 70 Public Repositories
@@ -82,14 +82,14 @@ Sunday       76 commits     ███░░░░░░░░░░░░░░�
 
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Asia/Singapore💬︎  Programming Languages: 
-Python                   11 hrs 26 mins      ███████████████████░░░░░░   79.08% 
-Other                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-SQL                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%🔥  Editors: 
-PyCharm                  14 hrs 28 mins      █████████████████████████   100.0% 
+Python                   9 hrs 56 mins       ███████████████████░░░░░░   78.36% 
+Other                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
+SQL                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.3% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%🔥  Editors: 
+PyCharm                  12 hrs 40 mins      █████████████████████████   100.0% 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%‍‍💻   Operating System: 
-Windows                  13 hrs 31 mins      ███████████████████████░░   93.45% 
-Mac                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.55%</code></pre><pre lang="text">
+Windows                  11 hrs 43 mins      ███████████████████████░░   92.52% 
+Mac                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.48%</code></pre><pre lang="text">
 <strong>I Mostly Code in JavaScript</strong>
 <code>JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   40.48% 
 Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81% 
