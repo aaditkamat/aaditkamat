@@ -65,7 +65,7 @@
 <div class="waka-stats"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347793%20lines%20of%20code-blue" alt="Lines of code"><br><br><strong>🐱 My Github Data</strong>
 <ul>
 <li>🏆 57 Contributions in the Year 2021
-<li>📦 164.0 kB Used in Github's Storage
+<li>📦 164.1 kB Used in Github's Storage
 <li>🚫 Opted to Hire
 <li>📜 70 Public Repositories
 <li>🔑 9 Private Repositories
@@ -86,8 +86,7 @@ Python                   10 hrs 54 mins      ███████████�
 Other                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
 SQL                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.87% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%🔥  Editors: 
-PyCharm                  13 hrs 28 mins      █████████████████████████   100.0% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%‍‍💻   Operating System: 
+PyCharm                  13 hrs 28 mins      █████████████████████████   100.0%‍‍💻   Operating System: 
 Windows                  12 hrs 31 mins      ███████████████████████░░   92.97% 
 Mac                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.03%</code></pre><pre lang="text">
 <strong>I Mostly Code in JavaScript</strong>
