@@ -65,7 +65,7 @@
 <div class="waka-stats"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347793%20lines%20of%20code-blue" alt="Lines of code"><br><br><strong>🐱 My Github Data</strong>
 <ul>
 <li>🏆 57 Contributions in the Year 2021
-<li>📦 164.1 kB Used in Github's Storage
+<li>📦 163.9 kB Used in Github's Storage
 <li>🚫 Opted to Hire
 <li>📜 70 Public Repositories
 <li>🔑 9 Private Repositories
