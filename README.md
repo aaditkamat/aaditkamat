@@ -62,41 +62,41 @@
 <details>
      <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary><br>
      <!--START_SECTION:waka-->
-<div class="waka-stats"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347793%20lines%20of%20code-blue" alt="Lines of code"><br><br><strong>🐱 My Github Data</strong>
+<div class="waka-stats"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-357737%20lines%20of%20code-blue" alt="Lines of code"><br><br><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 57 Contributions in the Year 2021
-<li>📦 164.0 kB Used in Github's Storage
+<li>🏆 59 Contributions in the Year 2021
+<li>📦 164.1 kB Used in Github's Storage
 <li>🚫 Opted to Hire
 <li>📜 70 Public Repositories
-<li>🔑 9 Private Repositories
+<li>🔑 10 Private Repositories
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Saturday</strong>
-<code>Monday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
-Tuesday      50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.73% 
-Wednesday    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
-Thursday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
-Saturday     129 commits    ██████░░░░░░░░░░░░░░░░░░░   25.1% 
-Sunday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79%</code>
+<code>Monday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+Tuesday      50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
+Wednesday    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+Thursday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
+Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
+Saturday     128 commits    ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Sunday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84%</code>
 </pre>
 
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Asia/Singapore💬︎  Programming Languages: 
-Python                   4 hrs 25 mins       █████████████░░░░░░░░░░░░   53.14% 
-Text                     2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-SQL                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%🔥  Editors: 
-PyCharm                  5 hrs 3 mins        ███████████████░░░░░░░░░░   60.73% 
-VS Code                  3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   39.27%‍‍💻   Operating System: 
-Windows                  4 hrs 52 mins       ██████████████░░░░░░░░░░░   58.58% 
-Mac                      3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.42%</code></pre><pre lang="text">
+Python                   2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.94% 
+Text                     2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.84% 
+SQL                      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.22% 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%🔥  Editors: 
+VS Code                  3 hrs 16 mins       ████████████░░░░░░░░░░░░░   51.25% 
+PyCharm                  3 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.75%‍‍💻   Operating System: 
+Mac                      3 hrs 26 mins       █████████████░░░░░░░░░░░░   54.06% 
+Windows                  2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.94%</code></pre><pre lang="text">
 <strong>I Mostly Code in JavaScript</strong>
-<code>JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   40.48% 
-Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%</code>
+<code>JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   39.53% 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   23.26% 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%</code>
 </pre>
 
 **Timeline**
