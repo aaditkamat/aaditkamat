@@ -64,33 +64,33 @@
      <!--START_SECTION:waka-->
 <div class="waka-stats"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-357805%20lines%20of%20code-blue" alt="Lines of code"><br><br><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 62 Contributions in the Year 2021
+<li>🏆 63 Contributions in the Year 2021
 <li>📦 164.1 kB Used in Github's Storage
 <li>🚫 Opted to Hire
 <li>📜 70 Public Repositories
-<li>🔑 10 Private Repositories
+<li>🔑 11 Private Repositories
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Saturday</strong>
-<code>Monday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
-Tuesday      50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
-Wednesday    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-Thursday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
-Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
-Saturday     128 commits    ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Sunday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84%</code>
+<code>Monday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
+Tuesday      50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
+Wednesday    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
+Thursday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
+Friday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
+Saturday     128 commits    ██████░░░░░░░░░░░░░░░░░░░   25.05% 
+Sunday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87%</code>
 </pre>
 
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Asia/Singapore💬︎  Programming Languages: 
-Text                     4 hrs 16 mins       █████████████░░░░░░░░░░░░   52.56% 
-Python                   2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.77% 
-SQL                      1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%🔥  Editors: 
-VS Code                  7 hrs 6 mins        ██████████████████████░░░   87.54% 
-PyCharm                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.46%‍‍💻   Operating System: 
-Mac                      7 hrs 17 mins       ██████████████████████░░░   89.74% 
-Windows                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26%</code></pre><pre lang="text">
+Python                   7 hrs 13 mins       █████████████░░░░░░░░░░░░   54.35% 
+Text                     4 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   34.01% 
+SQL                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%🔥  Editors: 
+VS Code                  6 hrs 53 mins       █████████████░░░░░░░░░░░░   51.83% 
+PyCharm                  6 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.17%‍‍💻   Operating System: 
+Mac                      12 hrs 28 mins      ███████████████████████░░   93.74% 
+Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.26%</code></pre><pre lang="text">
 <strong>I Mostly Code in JavaScript</strong>
 <code>JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   39.53% 
 Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   23.26% 
