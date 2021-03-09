@@ -60,6 +60,11 @@
 </details>
 
 <details>
+     <summary><strong>Source Karma Badge</strong></summary><br><br>
+     <img src="https://sourcekarma-og.vercel.app/api/aaditkamat/github" alt="Source Karma badge">
+</details>
+
+<details>
      <summary style="font-size:1.25em"><strong>Waka Stats </strong></summary><br>
      <!--START_SECTION:waka-->
 <div class="waka-stats"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-391502%20lines%20of%20code-blue" alt="Lines of code"><br><br><strong>🐱 My Github Data</strong>
