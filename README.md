@@ -54,7 +54,13 @@
 <details>
      <summary style="font-size:1.25em"><strong>Books Currently Reading 📚 </strong></summary>
      <!-- GOODREADS-LIST:START -->
-     <!-- GOODREADS-LIST:END -->
+- [Caste Matters](https://www.goodreads.com/review/show/3831543523?utm_medium=api&utm_source=rss) by Suraj Yengde
+- [Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices)](https://www.goodreads.com/review/show/3450165527?utm_medium=api&utm_source=rss) by Charles Petzold
+- [Understanding Kashmir and Kashmiris](https://www.goodreads.com/review/show/3371631383?utm_medium=api&utm_source=rss) by Christopher Snedden
+- [Json for Beginners: Your Guide to Easily Learn Json In 7 Days](https://www.goodreads.com/review/show/2444923846?utm_medium=api&utm_source=rss) by iCode Academy
+- [The Rational Optimist (P.S.)](https://www.goodreads.com/review/show/2390070832?utm_medium=api&utm_source=rss) by Matt Ridley
+- [The Secret](https://www.goodreads.com/review/show/1392293255?utm_medium=api&utm_source=rss) by Rhonda Byrne
+<!-- GOODREADS-LIST:END -->
 </details>
 
 <details>
