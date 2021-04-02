@@ -6,8 +6,6 @@
           <li> 🏫 It's my final semester and I'm taking courses on <a href="https://nusmods.com/modules/CS2102/database-systems">Databases</a>, 
                <a href="https://nusmods.com/modules/CS2107/introduction-to-information-security">Computer Security</a> 
                and <a href="https://wing-nus.github.io/cs6101/">Deep Learning on NLP</a>. 
-          <li> 🏢 I'm also interning on a part-time basis at <a href="https://www.sginnovate.com/investments/atomionics"> Atomionics</a> 
-               under the <a href="https://www.sginnovate.com/infinityseries/talent"> SGInnovate Infinity Series programme</a></li>
           <li> 👯 I'm happy to collaborate on any web development or data science project
           <li> 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
           <li> 📫 How to reach me:
