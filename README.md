@@ -54,6 +54,7 @@
 <details>
      <summary style="font-size:1.25em"><strong>Books Currently Reading 📚 </strong></summary>
      <!-- GOODREADS-LIST:START -->
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/3922700998?utm_medium=api&utm_source=rss) by Yuval Noah Harari
 - [Caste Matters](https://www.goodreads.com/review/show/3831543523?utm_medium=api&utm_source=rss) by Suraj Yengde
 - [Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices)](https://www.goodreads.com/review/show/3450165527?utm_medium=api&utm_source=rss) by Charles Petzold
 - [Understanding Kashmir and Kashmiris](https://www.goodreads.com/review/show/3371631383?utm_medium=api&utm_source=rss) by Christopher Snedden
