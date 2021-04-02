@@ -52,6 +52,12 @@
 </details>
 
 <details>
+     <summary style="font-size:1.25em"><strong>Books Currently Reading 📚 </strong></summary>
+     <!-- GOODREADS-LIST:START -->
+     <!-- GOODREADS-LIST:END -->
+</details>
+
+<details>
      <summary><strong>GitHub Stats</strong></summary><br><br>
      <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="GitHub trophy"><br><br>
      <img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true"><br><br>
