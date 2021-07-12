@@ -3,9 +3,7 @@
 <details>
      <summary style="font-size:1.25em"><strong>Personal Info </strong></summary>
      <ul>
-          <li> 🏫 It's my final semester and I'm taking courses on <a href="https://nusmods.com/modules/CS2102/database-systems">Databases</a>, 
-               <a href="https://nusmods.com/modules/CS2107/introduction-to-information-security">Computer Security</a> 
-               and <a href="https://wing-nus.github.io/cs6101/">Deep Learning on NLP</a>. 
+          <li> I'm currently working full time at Shopee as a QA Engineer in the Android Automation team 
           <li> 👯 I'm happy to collaborate on any web development or data science project
           <li> 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
           <li> 📫 How to reach me:
