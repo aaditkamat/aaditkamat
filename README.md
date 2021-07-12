@@ -4,7 +4,7 @@
      <summary style="font-size:1.25em"><strong>Personal Info </strong></summary>
      <ul>
           <li> I'm currently working full time at Shopee as a QA Engineer in the Android Automation team 
-          <li> 👯 I'm happy to collaborate on any web development or data science project
+          <li> 👯 I'm looking to improve my financial literacy and learn more about investing
           <li> 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
           <li> 📫 How to reach me:
                <ul>
