@@ -3,13 +3,13 @@
 <details>
      <summary style="font-size:1.25em"><strong>Personal Info </strong></summary>
      <ul>
-          <li> I'm currently working full time at Shopee as a QA Engineer in the Android Automation team 
-          <li> 👯 I'm looking to improve my financial literacy and learn more about investing
+          <li> 🏢 I'm currently working full time at Shopee as a QA Engineer in the Android Automation team 
+          <li> 🏦 I'm looking to improve my financial literacy and learn more about investing
           <li> 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
           <li> 📫 How to reach me:
                <ul>
                     <li> Personal: aadit.k12@gmail.com
-                    <li>School: aadit_kamat@u.nus.edu
+                    <li> School: aadit_kamat@u.nus.edu
                </ul>
      </ul>
 </details>
