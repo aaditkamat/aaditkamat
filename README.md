@@ -1,11 +1,11 @@
 # Aadit Kamat (he/him/his)
 
 ## Brief Intro
-After gaining industry experience, I realized that I want to have an impactful career. Though the tech industry offers such opportunities, I seek roles and organizations whose missions align with helping others. 
+After gaining industry experience, I realized I want an impactful career. Though the tech industry offers such opportunities, I seek roles and organizations whose missions specifically align with helping others.
 
-This is how I stumbled upon Effective Altruism and realized that a career in an EA organization fits the bill of a "dream career". 
+This is how I stumbled upon Effective Altruism and realized that a career in an EA organization fits the bill of a "dream career."
 
-As a former engineer, I decided to switch gears and pursue a Data Science concentration through the MSISOM program at Hough College, in order to enhance my proficiency and eventually pursue a career in EA.
+As a former engineer, I decided to switch gears and pursue a Data Science concentration through the MSISOM program at Hough College, to enhance my proficiency and eventually pursue a career in EA.
 
 ## Fun fact
 My first name means **Peak** or **Sun God**
