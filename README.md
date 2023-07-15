@@ -14,7 +14,17 @@ My first name means **Peak** or **Sun God**
 <img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&theme=react" alt="github stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" />
 
 ## Wakatime stats
+📊 Weekly development breakdown
 <!--START_SECTION:waka-->
+
+```txt
+Python       5 hrs 21 mins   █████████████▒░░░░░░░░░░░   53.98 %
+Astro        1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Other        53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+R            33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Git Config   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Contact
