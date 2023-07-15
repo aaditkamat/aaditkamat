@@ -2,19 +2,17 @@ name: Waka Readme
 
 on:
   push:
-  pull_request:
+    branches:
+        - main
+  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # runs at every 12AM UTC
+    - cron: "0 * * * *" # runs every hour
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.2.1
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: aaditkamat/aaditkamat
