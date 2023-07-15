@@ -13,6 +13,10 @@ My first name means **Peak** or **Sun God**
 ## GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&theme=react" alt="github stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" />
 
+## Wakatime stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Contact
 <p>
 <a href="https://www.linkedin.com/in/aaditkamat">
