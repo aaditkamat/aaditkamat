@@ -11,7 +11,10 @@ As a former engineer, I decided to switch gears and pursue a Data Science concen
 My first name means **Peak** or **Sun God**
 
 ## GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&theme=react" alt="github stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&theme=react" alt="github stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" />
+</div>
 
 ## Wakatime stats
 📊 Weekly development breakdown
