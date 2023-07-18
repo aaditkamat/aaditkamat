@@ -5,7 +5,7 @@ After gaining industry experience, I realized I want an impactful career. Though
 
 This is how I stumbled upon Effective Altruism and realized that a career in an EA organization fits the bill of a "dream career."
 
-As a former engineer, I decided to switch gears and pursue a Data Science concentration through the MSISOM program at Hough College, to enhance my proficiency and eventually pursue a career in EA.
+As a former engineer, I decided to switch gears and pursue a Data Science concentration through the MSISOM program at the [Warrington School of Business, University of Florida](https://warrington.ufl.edu/), to enhance my proficiency in the Data Science and Analytics skillsets and eventually pursue a career in EA.
 
 ## Fun fact
 My first name means **Peak** or **Sun God**
