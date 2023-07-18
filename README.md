@@ -12,7 +12,7 @@ My first name means **Peak** or **Sun God**
 
 ## GitHub stats
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&theme=react" alt="github stats" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="github stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" />
 </div>
 
@@ -29,6 +29,9 @@ Bash         17 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+## What am I listening to now?
+<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 
 ## Contact
 <p>
