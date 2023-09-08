@@ -22,11 +22,9 @@ My first name means **Peak** or **Sun God**
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   38 mins         ████████▒░░░░░░░░░░░░░░░░   33.29 %
-Java         36 mins         ████████░░░░░░░░░░░░░░░░░   31.87 %
-Python       23 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
-TypeScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-TSConfig     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Java         1 hr 20 mins    ████████████████████████▒   97.48 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Prolog       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
