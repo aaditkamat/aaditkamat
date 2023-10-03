@@ -22,7 +22,9 @@ My first name means **Peak** or **Sun God**
 <!--START_SECTION:waka-->
 
 ```txt
-Java   24 mins         █████████████████████████   100.00 %
+Other   37 mins         ██████████▒░░░░░░░░░░░░░░   41.02 %
+MySQL   27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.45 %
+Java    25 mins         ███████░░░░░░░░░░░░░░░░░░   28.53 %
 ```
 
 <!--END_SECTION:waka-->
