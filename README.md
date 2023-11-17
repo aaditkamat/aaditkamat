@@ -1,11 +1,9 @@
 # Aadit Kamat (he/him/his)
 
 ## Brief Intro
-After gaining industry experience, I realized I want an impactful career. Though the tech industry offers such opportunities, I seek roles and organizations whose missions specifically align with helping others.
+After graduating from the National University of Singapore, I worked in the Fintech and ECommerce companies, Shopee and Visa, for 1.5 years. At Shopee, I designed and implemented 100+ test cases for the Promotion modules (Add On Deals, Flash Sales, Bundle Deals) for the Shopee Android application to ensure a smoother experience for its millions of users. At Visa, I created frontend screens for the Visa Innovation Centre's Experiences Admin Portal, making it easy to work with data sent through API requests to the mobile apps that demo Visa Payment experiences to clients. I also created APIs for a fresh microservices project to transition from payment using physical debit cards to an accounts based payment model.
 
-This is how I stumbled upon Effective Altruism and realized that a career in an EA organization fits the bill of a "dream career."
-
-As a former engineer, I decided to switch gears and pursue a Data Science concentration through the MSISOM program at the [Warrington School of Business, University of Florida](https://warrington.ufl.edu/), to enhance my proficiency in the Data Science and Analytics skillsets and eventually pursue a career in EA.
+I decided to switch gears and pursue a Data Science concentration through the MSISOM program at the [Warrington School of Business, University of Florida](https://warrington.ufl.edu/), to enhance my proficiency in the Data Science and Analytics skillsets and eventually pursue a career in EA.
 
 ## Fun fact
 My first name means **Peak** or **Sun God**
