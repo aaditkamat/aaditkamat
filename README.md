@@ -7,7 +7,7 @@ At Shopee, I designed and implemented 100+ test cases for the Promotion modules 
 
 At Visa, I created frontend screens for the Visa Innovation Centre's Experiences Admin Portal, making it easy to work with data sent through API requests to the mobile apps that demo Visa Payment experiences to clients. I also created APIs for a fresh microservices project to transition from payment using physical debit cards to an accounts based payment model.
 
-I decided to switch gears and pursue a Data Science concentration through the MSISOM program at the [Warrington School of Business, University of Florida](https://warrington.ufl.edu/), to enhance my proficiency in the Data Science and Analytics skillsets and eventually pursue a career in EA.
+I decided to switch gears and pursue a Data Science concentration through the MSISOM program at the [Warrington School of Business, University of Florida](https://warrington.ufl.edu/), to enhance my proficiency in the Data Science and Analytics skillsets.
 
 ## Fun fact
 My first name means **Peak** or **Sun God**
