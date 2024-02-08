@@ -16,7 +16,6 @@ My first name means **Peak** or **Sun God**
 
 ## GitHub stats
 <div>
-<img src="https://githubranked.com/api/generate?name=aaditkamat" alt="github ranked" height="500" />
 <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="github stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" />
 </div>
