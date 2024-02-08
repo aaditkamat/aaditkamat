@@ -1,13 +1,15 @@
 # Aadit Kamat (he/him/his)
 
 ## Brief Intro
-After graduating from the National University of Singapore, I worked in the Fintech and ECommerce companies, Shopee and Visa, for 1.5 years. 
+I am a graduate student majoring in Information Systems at the University of Florida. Before joining this Master's program a year ago, I gained experience in the industry in software development and test automation roles. 
 
-At Shopee, I designed and implemented 100+ test cases for the Promotion modules (Add On Deals, Flash Sales, Bundle Deals) for the Shopee Android application to ensure a smoother experience for its millions of users. 
+At Shopee, I designed and executed automated test cases for the Android app, leveraging our in-house testing framework to enhance the user experience. At Visa, I developed APIs and designed the front end for an Admin portal used internally by the Innovation Centre team in Singapore.
 
-At Visa, I created frontend screens for the Visa Innovation Centre's Experiences Admin Portal, making it easy to work with data sent through API requests to the mobile apps that demo Visa Payment experiences to clients. I also created APIs for a fresh microservices project to transition from payment using physical debit cards to an accounts based payment model.
+My academic journey has been an exciting pivot from my previous engineering roles. I've learned skills such as Statistical Analysis, advanced Excel for quantitative analysis, and modeling business requirements through tools like ER diagrams before implementing them in Databases. 
 
-I decided to switch gears and pursue a Data Science concentration through the MSISOM program at the [Warrington School of Business, University of Florida](https://warrington.ufl.edu/), to enhance my proficiency in the Data Science and Analytics skillsets.
+Last summer, I worked closely with RMS to gain insights into the financial data of restaurants managed with their Metiri product and compare methods for benchmarking financial performance across decision-making units.
+
+I enjoy learning new things, collaborating with others, and growing together. I'm actively on the lookout for summer 2024 internships where I can leverage my technical skills to solve real-world business problems.
 
 ## Fun fact
 My first name means **Peak** or **Sun God**
