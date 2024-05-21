@@ -35,7 +35,7 @@ JSON             6 mins          ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## What am I listening to now?
-<img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+<img width="320" height="445" src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000486.801bfaae0e6a453ca6ff28cfc1b6f779.1011">
 
 ## Contact
 <p>
