@@ -33,10 +33,6 @@ JSON             6 mins          ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-## What am I listening to now?
-<img width="320" height="445" src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000486.801bfaae0e6a453ca6ff28cfc1b6f779.1011">
-
 ## Contact
 <p>
 <a href="https://www.linkedin.com/in/aaditkamat">
