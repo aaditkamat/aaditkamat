@@ -1,15 +1,18 @@
 # Aadit Kamat (he/him/his)
 
 ## Brief Intro
-I am a graduate student majoring in Information Systems at the University of Florida. Before joining this Master's program a year ago, I gained experience in the industry in software development and test automation roles. 
+I am a graduate student majoring in Information Systems at the University of Florida. I am currently interning as a Data Analyst at Getzler Henrich & Associates LLC. At Getzler Henrich, our main focus is on creating customized 13-week cash flow models for **middle-market firms (firms that generate revenue between $10 million to $100 million)** under financial distress, assisting them in **improving their economic outcomes**. Before joining this Master's program, I worked as a **Quality Assurance Engineer at Shopee** and a **junior Software Engineer at Visa**. 
 
-At Shopee, I designed and executed automated test cases for the Android app, leveraging our in-house testing framework to enhance the user experience. At Visa, I developed APIs and designed the front end for an Admin portal used internally by the Innovation Centre team in Singapore.
+As a QA Engineer at Shopee, I was responsible for designing and **executing automated test cases for the Android app**, utilizing our in-house testing framework to enhance the user experience. At Visa, I **developed APIs and designed the front end** for an Admin portal used by Innovation Centre teams in APAC and EMEA.
 
-My academic journey has been an exciting pivot from my previous engineering roles. I've learned skills such as Statistical Analysis, advanced Excel for quantitative analysis, and modeling business requirements through tools like ER diagrams before implementing them in Databases. 
+My academic journey has been an exciting pivot from my previous engineering roles. Throughout this program, I have acquired skills in **statistical analysis**, advanced Excel for **quantitative analysis**, **modeling business requirements** using tools such as ER diagrams, and **implementing them using databases**.
 
-Last summer, I worked closely with RMS to gain insights into the financial data of restaurants managed with their Metiri product and compare methods for benchmarking financial performance across decision-making units.
+Last summer, I completed a project for RMS focusing on **gleaning insights from the financial data of restaurants** using Metiri and **comparing methods for benchmarking financial performance across decision-making units**. 
 
-I enjoy learning new things, collaborating with others, and growing together. I'm actively on the lookout for summer 2024 internships where I can leverage my technical skills to solve real-world business problems.
+I enjoy learning new things, collaborating with others, and growing together.
+
+Hit me up if you want to:
+💬 chat about topics such as college life, software development, Effective Altruism, and spirituality OR collaborate on a real-world Data Analytics project
 
 ## Fun fact
 My first name means **Peak** or **Sun God**
@@ -43,15 +46,6 @@ Other              29 hrs 57 mins  >------------------------   02.33 %
 <a href="https://www.linkedin.com/in/aaditkamat">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/aaditkamat">
-		<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://facebook.com/AaditKam">
-		<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://instagram.com/aadit_kamat/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 <a href="mailto:playful_gambit0f@icloud.com">
    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -60,10 +54,4 @@ Other              29 hrs 57 mins  >------------------------   02.33 %
 </a>
 </p>
 
-Hit me up if you want to:
 
-💬 chat about topics like **college life**, **software development**, **Effective Altruism** or **spirituality**
-
-OR
-
-👯 collaborate on a real-world Data Analytics project
