@@ -1,5 +1,7 @@
 # Aadit Kamat (he/him/his)
 
+[![wakatime](https://wakatime.com/badge/user/e53f9d16-54c4-4175-b42d-22cc79a5ec8a.svg)](https://wakatime.com/@e53f9d16-54c4-4175-b42d-22cc79a5ec8a)
+
 ## Brief Intro
 I am a graduate student majoring in Information Systems at the University of Florida. I am currently interning as a Data Analyst at Getzler Henrich & Associates LLC. At Getzler Henrich, our main focus is on creating customized 13-week cash flow models for **middle-market firms (firms that generate revenue between $10 million to $100 million)** under financial distress, assisting them in **improving their economic outcomes**. Before joining this Master's program, I worked as a **Quality Assurance Engineer at Shopee** and a **junior Software Engineer at Visa**. 
 
