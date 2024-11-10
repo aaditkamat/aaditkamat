@@ -30,19 +30,19 @@ My first name means **Peak** or **Sun God**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2023 - To: 20 October 2024
+From: 10 November 2023 - To: 09 November 2024
 
-Total Time: 165 hrs 15 mins
+Total Time: 165 hrs 17 mins
 
-Python            78 hrs 5 mins   >>>>>>>>>>>>-------------   46.45 %
-TypeScript        43 hrs 6 mins   >>>>>>-------------------   25.64 %
-Astro             9 hrs 50 mins   >------------------------   05.86 %
-JSON              7 hrs 11 mins   >------------------------   04.28 %
-Markdown          6 hrs 51 mins   >------------------------   04.08 %
-JavaScript        5 hrs 10 mins   >------------------------   03.08 %
-Bash              3 hrs 38 mins   >------------------------   02.16 %
-Java              3 hrs 8 mins    -------------------------   01.86 %
-Other             2 hrs 52 mins   -------------------------   01.71 %
+Python            71 hrs 34 mins  >>>>>>>>>>>--------------   42.78 %
+TypeScript        45 hrs 1 min    >>>>>>>------------------   26.91 %
+Astro             12 hrs 16 mins  >>-----------------------   07.34 %
+JSON              8 hrs 44 mins   >------------------------   05.22 %
+Markdown          6 hrs 51 mins   >------------------------   04.10 %
+JavaScript        5 hrs 12 mins   >------------------------   03.11 %
+Bash              3 hrs 43 mins   >------------------------   02.23 %
+Java              3 hrs 8 mins    -------------------------   01.87 %
+Other             2 hrs 1 min     -------------------------   01.21 %
 ```
 
 <!--END_SECTION:waka-->
