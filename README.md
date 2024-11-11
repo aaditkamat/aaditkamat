@@ -21,23 +21,23 @@ My first name means **Peak** or **Sun God**
 
 ## GitHub stats
 <div>
-<img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="github stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" />
+<img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="github stats" > 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" >
 <br>
-<img src="./GitHub Profile Summary.png" />
+<a href="https://profile-summary-for-github.com/user/aaditkamat"><img src="./GitHub Profile Summary.png"></a>
 </div>
 
 <!--END_SECTION:waka-->
 ## Contact
 <p>
 <a href="https://www.linkedin.com/in/aaditkamat">
-   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 <a href="mailto:playful_gambit0f@icloud.com">
-   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="mailto:aadit.kamat@ufl.edu">
-   <img alt="GatorMail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+   <img alt="GatorMail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 </p>
 
