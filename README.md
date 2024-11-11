@@ -23,33 +23,15 @@ My first name means **Peak** or **Sun God**
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="github stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" />
+<br>
+<img src="./GitHub Profile Summary.png" />
 </div>
-
-## Wakatime stats
-📊 Total development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-From: 10 November 2023 - To: 09 November 2024
-
-Total Time: 165 hrs 17 mins
-
-Python            71 hrs 34 mins  >>>>>>>>>>>--------------   42.78 %
-TypeScript        45 hrs 1 min    >>>>>>>------------------   26.91 %
-Astro             12 hrs 16 mins  >>-----------------------   07.34 %
-JSON              8 hrs 44 mins   >------------------------   05.22 %
-Markdown          6 hrs 51 mins   >------------------------   04.10 %
-JavaScript        5 hrs 12 mins   >------------------------   03.11 %
-Bash              3 hrs 43 mins   >------------------------   02.23 %
-Java              3 hrs 8 mins    -------------------------   01.87 %
-Other             2 hrs 1 min     -------------------------   01.21 %
-```
 
 <!--END_SECTION:waka-->
 ## Contact
 <p>
 <a href="https://www.linkedin.com/in/aaditkamat">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:playful_gambit0f@icloud.com">
    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
