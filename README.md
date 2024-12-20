@@ -22,10 +22,7 @@ My first name means **Peak** or **Sun God**
 
 ## GitHub stats
 <div>
-<img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="github stats" > 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat&theme=react" >
-<br>
-<a href="https://profile-summary-for-github.com/user/aaditkamat"><img src="./GitHub Profile Summary.png"></a>
+  <img src="./2024_Year_In_Code.png" alt="2024 Year In Code Git Wrapped"> 
 </div>
 
 <!--END_SECTION:waka-->
