@@ -22,7 +22,7 @@ My first name means **Peak** or **Sun God**
 
 ## GitHub stats
 <div>
-  <img src="./2024_Year_In_Code.png" alt="2024 Year In Code Git Wrapped"> 
+  <img src="./2024_Year_In_Code.png" alt="2024 Year In Code Git Wrapped" height="630px"> 
 </div>
 
 <!--END_SECTION:waka-->
