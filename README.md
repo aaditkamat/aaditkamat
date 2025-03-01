@@ -35,6 +35,6 @@ Hit me up if you want to:
 My first name means **Peak** or **Sun God**
 
 ### Contact
-- Feel free to reach me at: **aadit.kamat@ufl.edu** or **aaditrahulkamat@gmail.com**
+Feel free to reach me at: **aadit.kamat@ufl.edu** or **aaditrahulkamat@gmail.com**
 
 
