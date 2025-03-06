@@ -20,6 +20,10 @@ I enjoy learning new things, collaborating with others, and growing together.
 Hit me up if you want to:
 💬 chat about topics such as college life, software development/data analytics, Effective Altruism, and spirituality OR collaborate on a project
 
+### 💻 Recently working on
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### GitHub stats
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditkamat&layout=compact" alt="Aadit Kamat GitHub Readme Stats 1st Image" />
@@ -28,6 +32,7 @@ Hit me up if you want to:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat" alt="Aadit Kamat GitHub Readme Streak stats" />
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="Aadit Kamat GitHub profile trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditkamat" alt="Aadit Kamat GitHub activity graph" />
 </div>
 
 
