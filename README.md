@@ -1,5 +1,4 @@
 # Aadit Kamat (he/him/his)
-[![wakatime](https://wakatime.com/badge/user/e53f9d16-54c4-4175-b42d-22cc79a5ec8a.svg)](https://wakatime.com/@e53f9d16-54c4-4175-b42d-22cc79a5ec8a)
 ![GitHub profile views counter](https://komarev.com/ghpvc/?username=aaditkamat)
 
 <img width="1436" alt="Screenshot 2025-03-01 at 10 55 54 AM" src="https://github.com/user-attachments/assets/42e818a5-0543-42c9-8379-b9a8b22076d5" />
@@ -31,7 +30,9 @@ Hit me up if you want to:
 
 ### GitHub stats
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditkamat&layout=compact" alt="Aadit Kamat GitHub Readme Stats 1st Image" />
+  <!--START_SECTION:waka-->
+  
+  <!--END_SECTION:waka-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&locale=en" alt="Aadit Kamat GitHub Readme Stats 2nd Image" />
   <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat" alt="Aadit Kamat GitHub Readme Streak stats" />
