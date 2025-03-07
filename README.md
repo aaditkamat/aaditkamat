@@ -21,11 +21,11 @@ Hit me up if you want to:
 
 ### 💻 Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#345](https://github.com/ufosc/Echo-Chat/pull/345) in [ufosc/Echo-Chat](https://github.com/ufosc/Echo-Chat)
-2. 💪 Opened PR [#344](https://github.com/ufosc/Echo-Chat/pull/344) in [ufosc/Echo-Chat](https://github.com/ufosc/Echo-Chat)
-3. 🔒 Closed issue [#4](https://github.com/aaditkamat/aaditkamat/issues/4) in [aaditkamat/aaditkamat](https://github.com/aaditkamat/aaditkamat)
-4. 🗣 Commented on [#253](https://github.com/ufosc/Echo-Chat/issues/253#issuecomment-2692282483) in [ufosc/Echo-Chat](https://github.com/ufosc/Echo-Chat)
-5. 💪 Opened PR [#13](https://github.com/dssd-gnv/leap-dashboard/pull/13) in [dssd-gnv/leap-dashboard](https://github.com/dssd-gnv/leap-dashboard)
+1. 🎉 Merged PR [#2](https://github.com/aaditkamat/freecodecamp-projects/pull/2) in [aaditkamat/freecodecamp-projects](https://github.com/aaditkamat/freecodecamp-projects)
+2. 💪 Opened PR [#2](https://github.com/aaditkamat/freecodecamp-projects/pull/2) in [aaditkamat/freecodecamp-projects](https://github.com/aaditkamat/freecodecamp-projects)
+3. 💪 Opened PR [#345](https://github.com/ufosc/Echo-Chat/pull/345) in [ufosc/Echo-Chat](https://github.com/ufosc/Echo-Chat)
+4. 💪 Opened PR [#344](https://github.com/ufosc/Echo-Chat/pull/344) in [ufosc/Echo-Chat](https://github.com/ufosc/Echo-Chat)
+5. 🔒 Closed issue [#4](https://github.com/aaditkamat/aaditkamat/issues/4) in [aaditkamat/aaditkamat](https://github.com/aaditkamat/aaditkamat)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
