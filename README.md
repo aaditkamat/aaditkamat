@@ -31,8 +31,16 @@ Hit me up if you want to:
 ### GitHub stats
 <div>
   <!--START_SECTION:waka-->
-  
-  <!--END_SECTION:waka-->
+
+```txt
+TypeScript       12 hrs 7 mins   █████████████████████▒░░░   85.12 %
+JSON             55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+CSS              37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+TSConfig         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Text             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+```
+
+<!--END_SECTION:waka-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&locale=en" alt="Aadit Kamat GitHub Readme Stats 2nd Image" />
   <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat" alt="Aadit Kamat GitHub Readme Streak stats" />
