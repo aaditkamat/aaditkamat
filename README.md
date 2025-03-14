@@ -33,11 +33,11 @@ Hit me up if you want to:
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       8 hrs 58 mins   ████████████░░░░░░░░░░░░░   48.09 %
-JavaScript       5 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   30.11 %
-JSON             1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-CSS              1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-GitIgnore file   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TypeScript       8 hrs 27 mins   █████████████▒░░░░░░░░░░░   53.20 %
+JavaScript       3 hrs 59 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
+JSON             1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+CSS              1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+CSV/TSV          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
