@@ -21,11 +21,11 @@ Hit me up if you want to:
 
 ### 💻 Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/dssd-gnv/fl-ej-map/pull/11) in [dssd-gnv/fl-ej-map](https://github.com/dssd-gnv/fl-ej-map)
-2. 💪 Opened PR [#11](https://github.com/dssd-gnv/fl-ej-map/pull/11) in [dssd-gnv/fl-ej-map](https://github.com/dssd-gnv/fl-ej-map)
-3. 🎉 Merged PR [#2](https://github.com/aaditkamat/Resume/pull/2) in [aaditkamat/Resume](https://github.com/aaditkamat/Resume)
-4. 💪 Opened PR [#2](https://github.com/aaditkamat/Resume/pull/2) in [aaditkamat/Resume](https://github.com/aaditkamat/Resume)
-5. 🎉 Merged PR [#1](https://github.com/aaditkamat/Resume/pull/1) in [aaditkamat/Resume](https://github.com/aaditkamat/Resume)
+1. 🎉 Merged PR [#325](https://github.com/aaditkamat/personal-website/pull/325) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+2. 🗣 Commented on [#325](https://github.com/aaditkamat/personal-website/pull/325#issuecomment-2780930687) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+3. 💪 Opened PR [#325](https://github.com/aaditkamat/personal-website/pull/325) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+4. 🎉 Merged PR [#11](https://github.com/dssd-gnv/fl-ej-map/pull/11) in [dssd-gnv/fl-ej-map](https://github.com/dssd-gnv/fl-ej-map)
+5. 💪 Opened PR [#11](https://github.com/dssd-gnv/fl-ej-map/pull/11) in [dssd-gnv/fl-ej-map](https://github.com/dssd-gnv/fl-ej-map)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
