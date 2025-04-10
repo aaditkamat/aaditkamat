@@ -33,11 +33,7 @@ Hit me up if you want to:
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       1 hr 33 mins    ████████████████████░░░░░   80.20 %
-GitIgnore file   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-CSV/TSV          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-TypeScript       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Bash             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
