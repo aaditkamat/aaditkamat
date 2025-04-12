@@ -21,11 +21,11 @@ Hit me up if you want to:
 
 ### 💻 Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/1) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-2. 🎉 Merged PR [#325](https://github.com/aaditkamat/personal-website/pull/325) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-3. 🗣 Commented on [#325](https://github.com/aaditkamat/personal-website/pull/325#issuecomment-2780930687) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-4. 💪 Opened PR [#325](https://github.com/aaditkamat/personal-website/pull/325) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-5. 🎉 Merged PR [#11](https://github.com/dssd-gnv/fl-ej-map/pull/11) in [dssd-gnv/fl-ej-map](https://github.com/dssd-gnv/fl-ej-map)
+1. 💪 Opened PR [#2](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/2) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+2. 🎉 Merged PR [#1](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/1) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+3. 💪 Opened PR [#1](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/1) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+4. 🎉 Merged PR [#325](https://github.com/aaditkamat/personal-website/pull/325) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+5. 🗣 Commented on [#325](https://github.com/aaditkamat/personal-website/pull/325#issuecomment-2780930687) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
