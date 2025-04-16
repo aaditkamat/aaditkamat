@@ -21,11 +21,11 @@ Hit me up if you want to:
 
 ### 💻 Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/2) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-2. 🎉 Merged PR [#1](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/1) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-3. 💪 Opened PR [#1](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/1) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-4. 🎉 Merged PR [#325](https://github.com/aaditkamat/personal-website/pull/325) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-5. 🗣 Commented on [#325](https://github.com/aaditkamat/personal-website/pull/325#issuecomment-2780930687) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+1. 🎉 Merged PR [#328](https://github.com/aaditkamat/personal-website/pull/328) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+2. ❌ Closed PR [#323](https://github.com/aaditkamat/personal-website/pull/323) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+3. 🎉 Merged PR [#319](https://github.com/aaditkamat/personal-website/pull/319) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+4. 🎉 Merged PR [#321](https://github.com/aaditkamat/personal-website/pull/321) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+5. 💪 Opened PR [#4](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/4) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
