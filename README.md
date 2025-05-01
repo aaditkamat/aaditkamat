@@ -21,11 +21,11 @@ Hit me up if you want to:
 
 ### 💻 Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/8) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-2. 💪 Opened PR [#7](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/7) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-3. ❌ Closed PR [#5](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/5) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-4. 💪 Opened PR [#6](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/6) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-5. 💪 Opened PR [#5](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/5) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+1. 💪 Opened PR [#9](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/9) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+2. 💪 Opened PR [#8](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/8) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+3. 💪 Opened PR [#7](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/7) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+4. ❌ Closed PR [#5](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/5) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+5. 💪 Opened PR [#6](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/6) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
