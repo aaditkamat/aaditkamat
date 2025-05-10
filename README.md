@@ -21,11 +21,11 @@ Hit me up if you want to:
 
 ### 💻 Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/15) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-2. ❌ Closed PR [#13](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/13) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-3. 🎉 Merged PR [#14](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/14) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-4. 💪 Opened PR [#14](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/14) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-5. 🎉 Merged PR [#6](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/6) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+1. 💪 Opened PR [#21](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/21) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+2. ❗ Opened issue [#20](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/20) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+3. ❗ Opened issue [#19](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/19) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+4. ❗ Opened issue [#18](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/18) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+5. 🔒 Closed issue [#17](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/17) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
