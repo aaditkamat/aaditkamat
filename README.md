@@ -33,9 +33,7 @@ Hit me up if you want to:
   <!--START_SECTION:waka-->
 
 ```txt
-TOML   6 mins          ██████████████▓░░░░░░░░░░   58.85 %
-YAML   4 mins          ██████████░░░░░░░░░░░░░░░   40.01 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
