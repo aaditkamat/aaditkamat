@@ -14,13 +14,6 @@
 
 ### GitHub stats
 <div>
-  <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&locale=en" alt="Aadit Kamat GitHub Readme Stats 2nd Image" />
   <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat" alt="Aadit Kamat GitHub Readme Streak stats" />
