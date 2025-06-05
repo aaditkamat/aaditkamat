@@ -5,11 +5,11 @@
 
 ### 💻 Recently working on
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/43) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-2. ❌ Closed PR [#347](https://github.com/aaditkamat/personal-website/pull/347) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-3. ❌ Closed PR [#346](https://github.com/aaditkamat/personal-website/pull/346) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-4. ❌ Closed PR [#345](https://github.com/aaditkamat/personal-website/pull/345) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-5. ❌ Closed PR [#344](https://github.com/aaditkamat/personal-website/pull/344) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+1. ❗ Opened issue [#44](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/44) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+2. 🎉 Merged PR [#42](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/42) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+3. ❗ Opened issue [#43](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/43) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+4. ❌ Closed PR [#347](https://github.com/aaditkamat/personal-website/pull/347) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
+5. ❌ Closed PR [#346](https://github.com/aaditkamat/personal-website/pull/346) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
