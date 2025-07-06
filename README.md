@@ -5,11 +5,11 @@
 
 ### 💻 Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#352](https://github.com/aaditkamat/personal-website/pull/352) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-2. 💪 Opened PR [#351](https://github.com/aaditkamat/personal-website/pull/351) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-3. 💪 Opened PR [#350](https://github.com/aaditkamat/personal-website/pull/350) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
-4. 🔒 Closed issue [#44](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/44) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-5. 🎉 Merged PR [#52](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/52) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+1. 🔓 Reopened issue [#54](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/54) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+2. 🔒 Closed issue [#54](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/54) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+3. 🔒 Closed issue [#56](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/56) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+4. 🎉 Merged PR [#57](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/57) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+5. 💪 Opened PR [#352](https://github.com/aaditkamat/personal-website/pull/352) in [aaditkamat/personal-website](https://github.com/aaditkamat/personal-website)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
