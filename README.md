@@ -5,11 +5,11 @@
 
 ### 💻 Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/68) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-2. ❌ Closed PR [#67](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/67) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
-3. ❌ Closed PR [#1](https://github.com/aaditkamat/Recyclepedia/pull/1) in [aaditkamat/Recyclepedia](https://github.com/aaditkamat/Recyclepedia)
-4. 💪 Opened PR [#1](https://github.com/aaditkamat/Recyclepedia/pull/1) in [aaditkamat/Recyclepedia](https://github.com/aaditkamat/Recyclepedia)
-5. 💪 Opened PR [#67](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/pull/67) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+1. 💪 Opened PR [#68](undefined) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+2. 💪 Opened PR [#67](undefined) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+3.  Labeled issue [#66](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/66) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+4. ❗ Opened issue [#66](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/66) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
+5.  Labeled issue [#65](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia/issues/65) in [Florida-Community-Innovation-Foundation/Recyclepedia](https://github.com/Florida-Community-Innovation-Foundation/Recyclepedia)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
