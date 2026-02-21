@@ -1,7 +1,7 @@
 # Aadit Kamat (he/him/his)
 ![Profile Views](https://komarev.com/ghpvc/?username=aaditkamat)
 
-<img width="1436" alt="Team Photo after UF AIS Consulting Presentation" src="https://github.com/user-attachments/assets/42e818a5-0543-42c9-8379-  b9a8b22076d5" />
+![Team Photo after UF AIS Consulting Presentation](https://github.com/user-attachments/assets/42e818a5-0543-42c9-8379-b9a8b22076d5)
 
 --- 
 
@@ -26,15 +26,13 @@
 ---
 
 ### 📊 GitHub Stats
+![Aadit Kamat GitHub Readme Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat)
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&locale=en" alt="Aadit Kamat GitHub Readme Stats 2nd Image" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditkamat" alt="Aadit Kamat GitHub Readme Streak stats" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark" alt="Aadit Kamat GitHub profile trophy" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditkamat" alt="Aadit Kamat GitHub activity graph" />
-</div>
+![Aadit Kamat GitHub Readme Stats](./profile/stats.svg)
+
+![Aadit Kamat GitHub profile trophy](https://github-profile-trophy-fork-two.vercel.app/?username=aaditkamat)
+
+![Aadit Kamat GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaditkamat)
 
 ---
 
