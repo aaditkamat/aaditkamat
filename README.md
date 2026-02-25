@@ -1,7 +1,7 @@
 # Aadit Kamat (he/him/his)
 ![Profile Views](https://komarev.com/ghpvc/?username=aaditkamat)
 
-![Team Photo after UF AIS Consulting Presentation](https://github.com/user-attachments/assets/42e818a5-0543-42c9-8379-b9a8b22076d5)
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
 
 --- 
 
@@ -14,6 +14,12 @@
 - 🚀 **Fun fact:** I've also dabbled with Test Automation as a Quality Assurance Engineer along with some Data Science
 
 --- 
+📷 Photo Time 
+
+Here's a photo I took after my [consulting presentation with UF AIS](https://www.ufais.org/consulting-application)
+
+![Team Photo after UF AIS Consulting Presentation](https://github.com/user-attachments/assets/42e818a5-0543-42c9-8379-b9a8b22076d5)
+
 
 ### 🛠️ My Toolkit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,5 +58,3 @@
 Feel free to reach out if you want to collaborate on a project, talk about web development, open source and a career in tech!
 
 [LinkedIn](https://linkedin.com/in/aaditkamat) • [My Scrimba Profile](https://scrimba.com/@aaditkamat?via=u098vb) • [My Favorite Scrimba Course](https://scrimba.com/learn-cybersecurity-c0ggmpl7f9?via=u098vb) • [Portfolio](https://aaditkamat.dev)
-
-[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
