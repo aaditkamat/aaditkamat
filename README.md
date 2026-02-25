@@ -14,7 +14,7 @@
 - 🚀 **Fun fact:** I've also dabbled with Test Automation as a Quality Assurance Engineer along with some Data Science
 
 --- 
-📷 Photo Time 
+### 📷 Photo Time 
 
 Here's a photo I took after my [consulting presentation with UF AIS](https://www.ufais.org/consulting-application)
 
