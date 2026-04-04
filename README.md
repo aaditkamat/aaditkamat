@@ -1,7 +1,7 @@
 # Aadit Kamat (he/him/his)
 ![Profile Views](https://komarev.com/ghpvc/?username=aaditkamat)
 
-[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors?via=u098vb)
 
 --- 
 
