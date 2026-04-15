@@ -36,7 +36,7 @@ Here's a photo I took after my [consulting presentation with UF AIS](https://www
 
 ![Aadit Kamat GitHub Readme Stats](./profile/stats.svg)
 
-![Aadit Kamat GitHub profile trophy](https://github-profile-trophy-fork-two.vercel.app/?username=aaditkamat)
+![Aadit Kamat GitHub profile trophy](https://trophy.benkou.dev/?username=aaditkamat)
 
 ![Aadit Kamat GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaditkamat)
 
