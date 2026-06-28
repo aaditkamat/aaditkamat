@@ -11,7 +11,7 @@
 
 - 🧩 **Tech I'm using:** React & Angular (JavaScript/TypeScript), Python, Spring Boot (Java), SQL (PostgreSQL/MySQL/Oracle) 
 
-- 🚀 **Fun fact:** I've also dabbled with Test Automation as a Quality Assurance Engineer along with some Data Science
+- 🚀 **Fun fact:** I've also dabbled with Test Automation as a Quality Assurance Engineer and some Data Science
 
 --- 
 ### 📷 Photo Time 
